@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Gopalakrishnan Arjunan
+# 👋 Hello, I'm Gopalakrishnan A
 
 ### AI/ML Engineer | Python Enthusiast | GenAI Innovator | Quantum Tech Explorer
 
